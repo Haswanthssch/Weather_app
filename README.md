@@ -15,12 +15,6 @@ This is a simple React application that fetches and displays the **temperature**
 
 ---
 
-## 📸 Demo
-
-![App Screenshot](./screenshot.png) <!-- Optional: replace with actual screenshot if available -->
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
